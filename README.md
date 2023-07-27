@@ -1,11 +1,11 @@
 Hi 👋 My name is Aditya Raj :) 
 ==============================  
 
-I'm an aviation and geopolitical enthusiast learning programming and aspire to be a software developer.  
+I'm an aviation and geopolitical enthusiast and an aspiring Software Engineer.  
 
 * 🌍  I'm based in India 
-* ✉️  You can contact me at [adistrim@proton.me](mailto:adistrim@proton.me) 
-* 🧠  I'm learning Data Stuctures and Algorithms
+* ✉️  You can contact me at [adistrim.dev@gmail.com](mailto:adistrim.dev@gmail.com) 
+* 🧠  I'm learning Data Stuctures and Algorithms and working on my projects
 
 <!-- ### Skills 
 <p align="left">
