@@ -26,7 +26,7 @@ I'm an aviation enthusiast and an aspiring Software Engineer.
 
 <b>Most Used Languages</b>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adistrim&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adistrim&layout=compact&theme=dark&hide_border=true&langs_count=10)
 
 <!-- <a href="http://www.github.com/adistrim"><img src="https://activity-graph.herokuapp.com/graph?username=adistrim&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
