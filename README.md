@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **DSA** and working on my projects
 
-- 👨‍💻 Portfolio [adistrim.me](adistrim.me)
+- 👨‍💻 Portfolio [adistrim.me](https://adistrim.me)
 
 - 📫 How to reach me **adistrim.dev@gmail.com**
 
 - 📄 Want to know about my experiences? [My Resume](https://docs.google.com/document/d/1_BAHu6uIh2fpOjT5bDNWIJRxFa0o5xcLxKpBH-WpZcc/edit?usp=sharing)
 
-- ⚡ Fun fact **I'm an aviation fan ✈️**
+- ⚡ Fun fact **I'm an aviation fan ✈️** [Aviation Grade](https://aviation-grade.vercel.app/)
 
 <h3 align="left">You can fine me here also:</h3>
 <p align="left">
