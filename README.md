@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I'm an aviation fan ✈️** [Aviation Grade](https://aviation-grade.vercel.app/)
 
-<h3 align="left">You can fine me here also:</h3>
+<h3 align="left">You can find me here also:</h3>
 <p align="left">
 <a href="https://twitter.com/_adistrim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_adistrim_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adistrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adistrim" height="30" width="40" /></a>
