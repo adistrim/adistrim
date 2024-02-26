@@ -1,23 +1,15 @@
-<h1 align="left">Hi 👋, I'm Aditya Raj :)</h1>
-<h3 align="left">Aspiring Software Engineer from India</h3>
+<h1 align="left">Hi, I'm Aditya Raj :)</h1>
+<h3 align="left">3rd year CSE student and an aspiring Software Engineer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/_adistrim_" target="blank"><img src="https://img.shields.io/twitter/follow/_adistrim_?logo=twitter&style=for-the-badge" alt="Aditya Raj" /></a> </p>
-
-- 🌱 I’m currently learning **DSA** and working on my projects
-
-- 👨‍💻 Portfolio [adistrim.me](https://adistrim.me)
-
-- 📫 How to reach me **adistrim.dev@gmail.com**
-
-- 📄 Want to know about my experiences? [My Resume](https://docs.google.com/document/d/1_BAHu6uIh2fpOjT5bDNWIJRxFa0o5xcLxKpBH-WpZcc/edit?usp=sharing)
-
-- ⚡ Fun fact **I'm an aviation fan ✈️** [Aviation Grade](https://aviation-grade.vercel.app/)
+- My website -> [adistrim.me](https://adistrim.me)
+- Incase you want to know my professional experiences -> [My Resume](https://docs.google.com/document/d/1_BAHu6uIh2fpOjT5bDNWIJRxFa0o5xcLxKpBH-WpZcc/edit?usp=sharing)
+- Got questions? Drop me a mail -> **adistrim.dev@gmail.com**
+- Fun fact **I'm an aviation fan ✈️** [Aviation Grade](https://aviation-grade.vercel.app/)
 
 <h3 align="left">You can find me here also:</h3>
 <p align="left">
 <a href="https://twitter.com/_adistrim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_adistrim_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adistrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adistrim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@adistrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adistrim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
