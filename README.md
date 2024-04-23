@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://adistrim.me">My Website</a> •
-  <a href="https://docs.google.com/document/d/1_BAHu6uIh2fpOjT5bDNWIJRxFa0o5xcLxKpBH-WpZcc/edit?usp=sharing">My Resume</a> •
+  <a href="https://drive.google.com/file/d/13J7ScOq6SqQNAI9AWjuoKRWhZtl1As6I/view?usp=sharing">My Resume</a> •
   <a href="https://aviation-grade.vercel.app/">Aviation Grade</a>
 </p>
 
@@ -20,5 +20,5 @@
 
 ### Get in Touch
 
-📧 Feel free to reach out to me via [email](mailto:adistrim.dev@gmail.com) for any inquiries or collaboration opportunities. Let's connect and create something awesome together!
+📧 Feel free to reach out to me via [email](mailto:adistrim.dev@gmail.com) for any inquiries or collaboration. Let's build something awesome!
 
