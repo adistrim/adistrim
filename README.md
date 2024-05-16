@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adistrim&show_icons=true&locale=en" alt="adistrim" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adistrim&rank_icon=percentile" alt="adistrim" />
 </p>
 
 <p align="center">
